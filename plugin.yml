@@ -1,0 +1,14 @@
+name: rspvphyblood
+author: a8kj
+version: 0.1
+main: me.a8kj.rspvphyblood.plugin.HybloodRspvpMain
+commands:
+   rspvpreload:
+   daily:
+   rspvp:
+   trash:
+      aliases:
+         - "trasher"
+         - "zoblla"
+         - "lava"
+         - "getoffitems"

@@ -1,0 +1,9 @@
+prefix: '&bNigga &8>> &r'
+messages:
+   no-permission: '%prefix% You don\''t have enough permission to execute this command!'
+   no-console: '%prefix% &cThis command only for player can be use it!'
+   reload-command-use: '%prefix% &cWrong use please type &2/rspvpreload all &cor &2/rspvpreload [config-name]'
+   reload-command-success: '%prefix% &a&LSUCCESS &aYou have reloaded %type% configuration/s'
+   open-trash-menu: '%prefix% &aYou have been opened your trash menu'
+   daily-success: '%prefix% &ayou have been get your daily kit successfully !'
+   daily-cooldown: '%prefix% &aYou are in cooldown , please wait to %time% before get daily kit'
